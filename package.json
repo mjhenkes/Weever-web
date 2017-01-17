@@ -17,7 +17,8 @@
   },
   "scripts": {
     "test": "gulp",
-    "prepublish": "gulp prepublish"
+    "prepublish": "gulp prepublish",
+    "sample": "src/sample.js"
   },
   "repository": {
     "type": "git",
